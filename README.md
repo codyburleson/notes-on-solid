@@ -18,6 +18,12 @@ A curated list of online resources related to Solid (including personal study no
 - [A Newbie Tries to Learn Solid by Inrupt - Basic Introduction](https://www.youtube.com/watch?v=-C-hSqcU4k8)
 - [Solid Tutorial Angular](https://github.com/solid/solid-tutorial-angular)
 
+## Notes
+
+### Cody Burleson's notes
+
+- [Notes on local Solid server with Docker](cburleson/notes-local-solid-server-with-docker.md)
+
 ## Forums
 
 - [SolidTalk.io - SOLID Community Forum](https://www.SolidTalk.io)
