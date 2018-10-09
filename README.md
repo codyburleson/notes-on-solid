@@ -21,7 +21,9 @@ A curated list of online resources related to Solid (including personal study no
 
 ## Tutorial and Video
 
+- [Solid Hacks](https://solid.gitbook.io/solid-hacks/)
 - [Solid Tutorial Angular](https://github.com/solid/solid-tutorial-angular)
+
 
 ## Forums
 
