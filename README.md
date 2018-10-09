@@ -45,6 +45,7 @@ A curated list of online resources related to Solid (including personal study no
 - [Creator of the World Wide Web is Creating a New Decentralized Web](https://itsfoss.com/solid-decentralized-web/), 2018 Oct 1, It's FOSS
 - [Enough Is Enough: The World Wide Web's Creator Is Taking The Power Back](https://www.forbes.com/sites/jasonevangelho/2018/09/30/enough-is-enough-death-to-the-world-wide-web-as-we-know-it/#2b4b33077007), 2018 Sep 30, Forbes
 - [Exclusive: Tim Berners-Lee tells us his radical new plan to upend the World Wide Web](https://www.fastcompany.com/90243936/exclusive-tim-berners-lee-tells-us-his-radical-new-plan-to-upend-the-world-wide-web), 2018 Sep 29, Fast Company
+- [From a world wide web to a personal web]https://dri.es/from-a-world-wide-web-to-a-personal-web), 2018 Oct 8, Dries Buytaert
 - [In layman's terms, what is the essence of Sir Tim Berners-Lee's project Solid?](https://www.quora.com/In-laymans-terms-what-is-the-essence-of-Sir-Tim-Berners-Lees-project-Solid/answer/Ruben-Verborgh), 2018 Sep 29, Quora
 - [Interest surges in Tim Berners-Lee's Inrupt, a startup out to remake the web](https://www.cnet.com/news/interest-surges-in-tim-berners-lees-inrupt-startup-to-remake-the-web/), 2018 Oct 4, CNET
 - [“I WAS DEVASTATED”: TIM BERNERS-LEE, THE MAN WHO CREATED THE WORLD WIDE WEB, HAS SOME REGRETS](https://www.vanityfair.com/news/2018/07/the-man-who-created-the-world-wide-web-has-some-regrets), 2018 Aug, Vanity Fair 
