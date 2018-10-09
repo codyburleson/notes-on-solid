@@ -7,6 +7,7 @@ A curated list of online resources related to Solid (including personal study no
 
 ## Documentation
 
+- [Data Browser User Guide](https://github.com/solid/userguide)
 - [Solid Specifications](https://github.com/solid/solid-spec)
 - [Solid Vocabularies](https://github.com/solid/vocab) - directory of ontologies and vocabularies used by the Solid project.
 - [Web Access Control (WAC)](https://github.com/solid/web-access-control-spec) - the mechanism used for authorization.
@@ -47,7 +48,7 @@ A curated list of online resources related to Solid (including personal study no
 - [Creator of the World Wide Web is Creating a New Decentralized Web](https://itsfoss.com/solid-decentralized-web/), 2018 Oct 1, It's FOSS
 - [Enough Is Enough: The World Wide Web's Creator Is Taking The Power Back](https://www.forbes.com/sites/jasonevangelho/2018/09/30/enough-is-enough-death-to-the-world-wide-web-as-we-know-it/#2b4b33077007), 2018 Sep 30, Forbes
 - [Exclusive: Tim Berners-Lee tells us his radical new plan to upend the World Wide Web](https://www.fastcompany.com/90243936/exclusive-tim-berners-lee-tells-us-his-radical-new-plan-to-upend-the-world-wide-web), 2018 Sep 29, Fast Company
-- [From a world wide web to a personal web]https://dri.es/from-a-world-wide-web-to-a-personal-web), 2018 Oct 8, Dries Buytaert
+- [From a world wide web to a personal web](https://dri.es/from-a-world-wide-web-to-a-personal-web), 2018 Oct 8, Dries Buytaert
 - [In layman's terms, what is the essence of Sir Tim Berners-Lee's project Solid?](https://www.quora.com/In-laymans-terms-what-is-the-essence-of-Sir-Tim-Berners-Lees-project-Solid/answer/Ruben-Verborgh), 2018 Sep 29, Quora
 - [Interest surges in Tim Berners-Lee's Inrupt, a startup out to remake the web](https://www.cnet.com/news/interest-surges-in-tim-berners-lees-inrupt-startup-to-remake-the-web/), 2018 Oct 4, CNET
 - [“I WAS DEVASTATED”: TIM BERNERS-LEE, THE MAN WHO CREATED THE WORLD WIDE WEB, HAS SOME REGRETS](https://www.vanityfair.com/news/2018/07/the-man-who-created-the-world-wide-web-has-some-regrets), 2018 Aug, Vanity Fair 
@@ -61,6 +62,6 @@ A curated list of online resources related to Solid (including personal study no
 - [Tim Berners-Lee is Creating the New Internet](https://www.invests.com/2018/10/05/tim-berners-lee-is-creating-the-new-internet/), 2018 Oct 5, Invests
 - [Tim Berners-Lee launched his vision for an alternative web, and his timing was impeccable](https://www.businessinsider.com/tim-berners-lee-reveals-vision-alternative-web-solid-2018-10), 2018 Oct 1, Business Insider
 - [Tim Berners-Lee’s new startup is aiming to protect your data](http://www.alphr.com/startups/1009985/tim-berners-lee-s-new-startup-is-aiming-to-protect-your-data), 2018 Oct 1, Alphr
-- [Tim Berners-Lee project gives you more control over web data] (https://www.engadget.com/2018/09/30/tim-berners-lee-solid-data-control/), 2018 Sep 30, Engadget
+- [Tim Berners-Lee project gives you more control over web data](https://www.engadget.com/2018/09/30/tim-berners-lee-solid-data-control/), 2018 Sep 30, Engadget
 - [Tim Berners-Lee, Solid, and the arrival of the Web 3.0](https://dev.to/krtb/tim-berners-lee-solid-and-the-arrival-of-the-web-30-4fg7), 2018- Oct 7, Dev
 - [Web inventor Tim Berners-Lee reveals 'Solid' plan for users to take control of personal data](https://appleinsider.com/articles/18/10/01/web-inventor-tim-berners-lee-reveals-solid-plan-for-users-to-take-control-of-personal-data), 2018 Oct 1, AppleInsider

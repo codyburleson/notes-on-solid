@@ -119,5 +119,28 @@ Right now I'm stuck editing my profile; getting error:
 
 Posting question in the `node-solid-server` Gitter channel.`
 
+I found this note, which could be the issue:
+
+https://github.com/solid/node-solid-server#running-in-development-environments
+
+
+**Running in development environments**
+
+Solid requires SSL certificates to be valid, so you cannot use self-signed certificates. To switch off this security 
+feature in development environments, you can use the bin/solid-test executable, which unsets the 
+NODE_TLS_REJECT_UNAUTHORIZED flag and sets the rejectUnauthorized option.
+
+How do I get an SSL key and certificate?
+
+You need an SSL certificate from a certificate authority, such as your domain provider or Let's Encrypt!.
+
+For testing purposes, you can use bin/solid-test with a self-signed certificate, generated as follows:
+
+$ openssl genrsa 2048 > ../localhost.key
+$ openssl req -new -x509 -nodes -sha256 -days 3650 -key ../localhost.key -subj '/CN=*.localhost' > ../localhost.cert
+
+Note that this example creates the localhost.cert and localhost.key files in a directory one level higher from the 
+current, so that you don't accidentally commit your certificates to solid while you're developing
+
 To be continued...
 
