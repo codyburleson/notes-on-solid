@@ -2,9 +2,9 @@
 
 **WORK IN PROGRESS**
 
-Here, I am exploring use of the node-solid-server in a Docker container. Please be aware that study is not yet complete 
-and the notes represent a stream-of-conscious workflow. I'll go back and clean up the notes after I've found that I've 
-actually learned something to share more formally.
+Here, I am exploring use of the node-solid-server in a Docker container. Please be aware that this study is not yet 
+complete and the notes represent a stream-of-conscious workflow. I'll go back and clean up the notes after I've found 
+that I've actually learned something to share more formally.
 
 ## References
 
@@ -28,14 +28,15 @@ https://localhost:8443
 
 Quick acid test. Let's register  user through the web UI and see what happens.
 
-- Registered user: cburleson | solid
+- Register user: solid | password: solid
 - Try to edit profile and get:
 
 ```
 Web error: 401 (Unauthorized) on PATCH of <https://cburleson.localhost:8443/profile/card>
 ```
 
-Obviously more is required than just spinning up the container. So, now I will refer to the following steps to see what the config looks like.
+Obviously more is required than just spinning up the container. So, now I will refer to the following steps to see what 
+the config looks like.
 
 Modify the config as follows:
 
@@ -62,7 +63,7 @@ I used the first step to copy config.json (to my repos root) and initially, it l
 }
 ```
 
-Lets now look at the file syste in the container. We get shell access into the container with the following command:
+Lets now look at the file system in the container. We get shell access into the container with the following command:
 
 `docker exec -it solid bash`
 
@@ -103,7 +104,20 @@ drwxr-xr-x   2 root root   4096 Oct  6 05:53 static
 drwxr-xr-x   6 root root   4096 Oct  6 05:53 test
 ```
 
-It looks like `root` and `dbPath` in `config.json` point to two directories where data is written. I'm looking at this because I want to map volumes instead of having my data directly in the volatile container.
+It looks like `root` and `dbPath` in `config.json` point to two directories where data is written. I'm looking at this 
+because I want to map volumes instead of having my data directly in the volatile container. I'll swing back around to 
+this later and probably create a `docker-compose.yml` file that does the volume mappings. For now, however, I need 
+to figure out how to more properly configure the instance so that it actually works without errors.
+
+I now refer to the resource, [INSTALLING AND RUNNING NODE SOLID SERVER](https://solid.inrupt.com/docs/installing-running-nss), 
+which details how to setup Solid Server on Debian GNU/Linux. I think it will provide some clues to the configuration 
+options.
+
+Right now I'm stuck editing my profile; getting error:
+
+`Web error: 500 (Internal Server Error) on PATCH of <https://solid.localhost:8443/profile/card>`
+
+Posting question in the `node-solid-server` Gitter channel.`
 
 To be continued...
 
