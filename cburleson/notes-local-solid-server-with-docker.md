@@ -123,7 +123,6 @@ I found this note, which could be the issue:
 
 https://github.com/solid/node-solid-server#running-in-development-environments
 
-
 **Running in development environments**
 
 Solid requires SSL certificates to be valid, so you cannot use self-signed certificates. To switch off this security 

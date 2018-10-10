@@ -2,29 +2,39 @@
 
 A curated list of online resources related to Solid (including personal study notes).
 
-- [inrupt](https://www.inrupt.com/), startup organization promoting Solid.
-- [Solid Developer Portal](https://solid.inrupt.com/docs/)
+- [Main Solid Website (MIT)](https://solid.mit.edu/)
+- [Main Solid Website (inrupt)](https://solid.inrupt.com/)
+- [Intro to the Solid Specification](https://solid.inrupt.com/docs/intro-to-solid-spec)
 
 ## Documentation
 
 - [Data Browser User Guide](https://github.com/solid/userguide)
+- [Solid Developer Portal](https://solid.inrupt.com/docs/)
 - [Solid Specifications](https://github.com/solid/solid-spec)
 - [Solid Vocabularies](https://github.com/solid/vocab) - directory of ontologies and vocabularies used by the Solid project.
 - [Web Access Control (WAC)](https://github.com/solid/web-access-control-spec) - the mechanism used for authorization.
 
 ## Source code
 
-- [solid-auth-client](https://github.com/solid/solid-auth-client) - A library for reading and writing to Solid pods
+- Solid Auth Client - A library for reading and writing to Solid pods
+    - Source: https://github.com/solid/solid-auth-client 
+    - Docs: https://solid.github.io/solid-auth-client/ 
 
 ## Applications
 
-- [SOLID Apps](https://github.com/solid/solid-apps)
+- [Solid Apps](https://github.com/solid/solid-apps)
+- Profile Editor
+    - Source: https://github.com/linkeddata/profile-editor/ 
+    - Preview: https://linkeddata.github.io/profile-editor/
+- [Solid CLI](https://github.com/solid/solid-cli) - A command line utility to interact with solid servers.
+- Solid Inbox
+    - Source: https://github.com/solid/solid-inbox
+    - Preview: https://solid.github.io/solid-inbox/
 
 ## Tutorial and Video
 
 - [Solid Hacks](https://solid.gitbook.io/solid-hacks/)
 - [Solid Tutorial Angular](https://github.com/solid/solid-tutorial-angular)
-
 
 ## Forums
 
@@ -34,14 +44,23 @@ A curated list of online resources related to Solid (including personal study no
 
 - [solidpay](https://docs.solidpay.org/)
 
+## Organizations
+
+- [inrupt](https://www.inrupt.com/), startup organization promoting Solid.
+
 ### Personal notes
 
 #### Cody Burleson
 
 - [Notes on local Solid server with Docker](cburleson/notes-local-solid-server-with-docker.md)
 
+## Presentations
+
+- [Solid: Linked Data for personal data management](https://rubenverborgh.github.io/Solid-DeSemWeb-2018/), 2018 Oct 8, DeSemWeb2018
+
 ## Articles
 
+- [Announcing Glasswing’s Investment in inrupt: What’s the Killer App?](https://www.inrupt.com/blog/announcing-glasswings-investment-in-inrupt), 2018 Oct 9, inrupt blog
 - [An introduction to the Solid ecosystem](https://rubenverborgh.github.io/Web-Foundation-2018/), 2018 Sep 13, Web Foundation Seminar
 - [A web where the user has complete control of their data? Sounds Solid, Tim Berners-Lee](https://www.theregister.co.uk/2018/10/01/tim_berners_lee_solid_inrupt/), 2018 Oct 1, The Register
 - [Berners-Lee launches startup to commercialise his Solid decentralised web project](https://www.computing.co.uk/ctg/news/3063625/berners-lee-launches-startup-to-commercialise-his-solid-decentralised-web-project), 2018 Sep 30, Computing
