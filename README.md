@@ -60,6 +60,7 @@ A curated list of online resources related to Solid (including personal study no
 
 ## Articles
 
+- [A Solid Investment: Why Glasswing is Backing Sir Tim Berners-Lee and inrupt](A Solid Investment: Why Glasswing is Backing Sir Tim Berners-Lee and inrupt)
 - [Announcing Glasswing’s Investment in inrupt: What’s the Killer App?](https://www.inrupt.com/blog/announcing-glasswings-investment-in-inrupt), 2018 Oct 9, inrupt blog
 - [An introduction to the Solid ecosystem](https://rubenverborgh.github.io/Web-Foundation-2018/), 2018 Sep 13, Web Foundation Seminar
 - [A web where the user has complete control of their data? Sounds Solid, Tim Berners-Lee](https://www.theregister.co.uk/2018/10/01/tim_berners_lee_solid_inrupt/), 2018 Oct 1, The Register
@@ -82,5 +83,7 @@ A curated list of online resources related to Solid (including personal study no
 - [Tim Berners-Lee launched his vision for an alternative web, and his timing was impeccable](https://www.businessinsider.com/tim-berners-lee-reveals-vision-alternative-web-solid-2018-10), 2018 Oct 1, Business Insider
 - [Tim Berners-Lee’s new startup is aiming to protect your data](http://www.alphr.com/startups/1009985/tim-berners-lee-s-new-startup-is-aiming-to-protect-your-data), 2018 Oct 1, Alphr
 - [Tim Berners-Lee project gives you more control over web data](https://www.engadget.com/2018/09/30/tim-berners-lee-solid-data-control/), 2018 Sep 30, Engadget
-- [Tim Berners-Lee, Solid, and the arrival of the Web 3.0](https://dev.to/krtb/tim-berners-lee-solid-and-the-arrival-of-the-web-30-4fg7), 2018- Oct 7, Dev
+- [Tim Berners-Lee, Solid, and the arrival of the Web 3.0](https://dev.to/krtb/tim-berners-lee-solid-and-the-arrival-of-the-web-30-4fg7), 2018 Oct 7, Dev
+- [Toward a new and better World Wide Web?](https://coingeek.com/a-power-of-facing-toward-a-new-and-better-world-wide-web/), 2018 Oct 15, coingeek.com
 - [Web inventor Tim Berners-Lee reveals 'Solid' plan for users to take control of personal data](https://appleinsider.com/articles/18/10/01/web-inventor-tim-berners-lee-reveals-solid-plan-for-users-to-take-control-of-personal-data), 2018 Oct 1, AppleInsider
+- [Web’s inventor Tim Berners-Lee wants to give users control of their internet data](https://memeburn.com/2018/10/tim-berners-lee-new-internet/), 2018, Oct 16, memeburn.com
