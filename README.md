@@ -71,6 +71,7 @@ A curated list of online resources related to Solid (including personal study no
 - [From a world wide web to a personal web](https://dri.es/from-a-world-wide-web-to-a-personal-web), 2018 Oct 8, Dries Buytaert
 - [In layman's terms, what is the essence of Sir Tim Berners-Lee's project Solid?](https://www.quora.com/In-laymans-terms-what-is-the-essence-of-Sir-Tim-Berners-Lees-project-Solid/answer/Ruben-Verborgh), 2018 Sep 29, Quora
 - [Interest surges in Tim Berners-Lee's Inrupt, a startup out to remake the web](https://www.cnet.com/news/interest-surges-in-tim-berners-lees-inrupt-startup-to-remake-the-web/), 2018 Oct 4, CNET
+- [Inventor of the Web Prepares to Launch Web 3.0, Predicts Privacy Revolution](https://www.thenewamerican.com/tech/computers/item/30727-inventor-of-the-web-prepares-to-launch-web-3-0-predicts-privacy-revolution), 2018 Nov 25
 - [“I WAS DEVASTATED”: TIM BERNERS-LEE, THE MAN WHO CREATED THE WORLD WIDE WEB, HAS SOME REGRETS](https://www.vanityfair.com/news/2018/07/the-man-who-created-the-world-wide-web-has-some-regrets), 2018 Aug, Vanity Fair 
 - [One Small Step for the Web…](https://medium.com/@timberners_lee/one-small-step-for-the-web-87f92217d085), 2018 Sep 29, Medium
 - [Paradigm shifts for the decentralized Web](https://ruben.verborgh.org/blog/2017/12/20/paradigm-shifts-for-the-decentralized-web/), 2017 Dec 20, Ruben Verborgh
@@ -82,6 +83,7 @@ A curated list of online resources related to Solid (including personal study no
 - [Tim Berners-Lee is Creating the New Internet](https://www.invests.com/2018/10/05/tim-berners-lee-is-creating-the-new-internet/), 2018 Oct 5, Invests
 - [Tim Berners-Lee launched his vision for an alternative web, and his timing was impeccable](https://www.businessinsider.com/tim-berners-lee-reveals-vision-alternative-web-solid-2018-10), 2018 Oct 1, Business Insider
 - [Tim Berners-Lee’s new startup is aiming to protect your data](http://www.alphr.com/startups/1009985/tim-berners-lee-s-new-startup-is-aiming-to-protect-your-data), 2018 Oct 1, Alphr
+- [Tim Berners-Lee’s Solid Project: Can It Save the Web?](https://www.extremetech.com/extreme/281334-tim-berners-lees-solid-project-can-it-save-the-web), 2018 Nov 29
 - [Tim Berners-Lee project gives you more control over web data](https://www.engadget.com/2018/09/30/tim-berners-lee-solid-data-control/), 2018 Sep 30, Engadget
 - [Tim Berners-Lee, Solid, and the arrival of the Web 3.0](https://dev.to/krtb/tim-berners-lee-solid-and-the-arrival-of-the-web-30-4fg7), 2018 Oct 7, Dev
 - [Toward a new and better World Wide Web?](https://coingeek.com/a-power-of-facing-toward-a-new-and-better-world-wide-web/), 2018 Oct 15, coingeek.com
